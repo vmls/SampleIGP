@@ -15,5 +15,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World! these are a few changes that are going to be commited in the master branch" />
+        android:text="Hello World! these are a few changes that are going to be commited in the master branch and then added a few more lines of text" />
 </RelativeLayout>
